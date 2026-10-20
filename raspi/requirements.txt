@@ -1,0 +1,6 @@
+adafruit-circuitpython-dht
+firebase-admin
+gpiozero
+opencv-python
+requests
+ultralytics

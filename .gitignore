@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+*.json.key
+serviceAccountKey*.json
+__pycache__/
+*.db
